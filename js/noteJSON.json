@@ -1,0 +1,45 @@
+[{
+    "noteName": "Ab",
+    "noteImageLink":"Abnote.png"
+},
+{
+    "noteName": "A",
+    "noteImageLink":"Anote.png"
+},
+{
+    "noteName": "Bb",
+    "noteImageLink":"Bbnote.png"
+},
+{
+    "noteName": "B",
+    "noteImageLink":"Bnote.png"
+},
+{
+    "noteName": "Db",
+    "noteImageLink":"Dbnote.png"
+},
+{
+    "noteName": "D",
+    "noteImageLink":"Dnote.png"
+},
+{
+    "noteName": "Eb",
+    "noteImageLink":"Ebnote.png"
+},
+{
+    "noteName": "E",
+    "noteImageLink":"Enote.png"
+},
+{
+    "noteName": "F",
+    "noteImageLink":"Fnote.png"
+},
+{
+    "noteName": "Gb",
+    "noteImageLink":"Gbnote.png"
+},
+{
+    "noteName": "G",
+    "noteImageLink":"Gnote.png"
+}
+]
